@@ -11,8 +11,9 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background: url('data:image/jpeg;base64,YOUR_BASE64_STRING') no-repeat center center fixed;
+    background: url('/static/images.jpeg');
     background-size: cover;
+    background-position: center;
 }
 
 .converter-container {
